@@ -1,0 +1,2 @@
+# React-practice
+LEARNING REACT WITH VITE FRAMEWORK + WC
